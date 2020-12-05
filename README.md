@@ -1,3 +1,3 @@
 # Image_compression_using_jpeg
-ITC end semester project
+ITC end semester project. <br\>
 This project compresses an image using jpeg compression method.
