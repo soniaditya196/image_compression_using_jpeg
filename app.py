@@ -70,7 +70,7 @@ for i in range(block,height+1,block):
     currY = i
     
 print("Size of the sliced image: "+str(len(sliced)))
-print("Each elemend of sliced list contains a "+ str(sliced[0].shape)+ " element.")
+print("Each element of sliced list contains a "+ str(sliced[0].shape)+ " element.")
 
 imf = [np.float32(img) for img in sliced]
 
