@@ -1,1 +1,0 @@
-# Image_compression_using_jpeg
