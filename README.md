@@ -1,3 +1,3 @@
-# Image_compression_using_jpeg
-ITC end semester project. \
-This project compresses an image using jpeg compression method.
+# Image compression using jpeg
+
+This system compresses an image using jpeg compression method.
